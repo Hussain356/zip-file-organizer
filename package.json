@@ -1,0 +1,29 @@
+{
+  "name": "zip-file-organizer",
+  "version": "1.0.0",
+  "description": "Web app that sorts the files inside a ZIP into folders by file type",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "zip",
+    "file-organizer"
+  ],
+  "author": "Hussain Mansoor",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.6.1",
+    "express": "^4.21.2",
+    "express-rate-limit": "^8.7.1",
+    "helmet": "^8.3.0",
+    "multer": "^2.4.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
