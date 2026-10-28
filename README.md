@@ -1,6 +1,6 @@
 # ZIP File Organizer
 
-[![CI](https://github.com/<your-username>/zip-file-organizer/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/zip-file-organizer/actions/workflows/ci.yml)
+[![CI](https://github.com/Hussain356/zip-file-organizer/actions/workflows/ci.yml/badge.svg)](https://github.com/Hussain356/zip-file-organizer/actions/workflows/ci.yml)
 ![Node.js](https://img.shields.io/badge/node-%3E%3D18-339933?logo=node.js&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
